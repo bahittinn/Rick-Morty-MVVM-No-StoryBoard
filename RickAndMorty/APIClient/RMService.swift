@@ -15,8 +15,8 @@ final class RMService {
     
     /// Privatized constractor
     private init() {
+        
     }
-    
     /// Send Rick and Morty API Call
     /// - Parameters:
     ///   - request: Request instance

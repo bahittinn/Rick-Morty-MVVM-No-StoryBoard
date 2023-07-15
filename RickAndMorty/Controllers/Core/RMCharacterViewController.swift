@@ -14,6 +14,7 @@ final class RMCharacterViewController: UIViewController {
         super.viewDidLoad()
         view.backgroundColor = .systemBackground
         title = "Characters"
+        print(RMEndpoint(rawValue: "character") ?? "")
         // Do any additional setup after loading the view.
     }
     
