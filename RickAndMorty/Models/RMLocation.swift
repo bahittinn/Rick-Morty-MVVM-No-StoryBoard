@@ -7,6 +7,8 @@
 
 import Foundation
 
+/// location model
+
 struct RMLocation: Codable {
     let id:         Int
     let name:       String

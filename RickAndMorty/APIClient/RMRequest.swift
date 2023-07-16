@@ -13,6 +13,8 @@ final class RMRequest {
     //Base url
     //Endpoint
 
+    
+    //MARK: - Functions for api request
     private struct Constants {
         static let baseURL = "https://rickandmortyapi.com/api"
     }

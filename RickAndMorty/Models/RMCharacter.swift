@@ -7,6 +7,8 @@
 
 import Foundation
 
+/// character model
+
 struct RMCharacter: Codable {
     let id: Int
     let name: String
